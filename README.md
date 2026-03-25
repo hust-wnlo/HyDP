@@ -40,7 +40,7 @@ The current version of HyDP supports built-in configuration
       spp->chnls_per_zone = 8;    
       spp->ways_per_zone  = 2;    //default :==spp->ways
 
-### Run FEMU as NVMe ZNS (Zoned-Namespace) SSDs (``ZNSSD`` mode)
+### Run HyDP as NVMe ZNS (Zoned-Namespace) SSDs (``ZNSSD`` mode)
 
 **Notes:** Currently only basic ZNS interface is supported and it can be used
 for development purposes.
